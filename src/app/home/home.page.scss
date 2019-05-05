@@ -1,0 +1,23 @@
+ion-content.bgImage .imgHome {
+  background: url('src/assets/caliscout_home.png');
+  background-size: cover;
+  height: 100%;
+  text-align: center;
+  width: 100%;
+}
+
+ion-content.bgImage .imgHome img {
+  width: 30%;
+  margin: 40% 0 20%;
+}
+
+ion-content.bgImage .imgHome .btnHome {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  vertical-align: middle;
+}
+
+ion-content.bgImage .imgHome ion-button.btnHome {
+  align-self: center;
+}

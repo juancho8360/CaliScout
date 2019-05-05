@@ -1,0 +1,95 @@
+ion-slides {
+  height: 100%;
+  width: 100%;
+}
+
+ion-slides .imgHome {
+  background: url('src/assets/caliscout_page2.png');
+  background-size: cover;
+  height: 100%;
+  position: relative;
+  text-align: center;
+  width: 100%;
+}
+
+ion-slides .textHome {
+  bottom: 25%;
+  color: #fff;
+  font-size: 13px;
+  position: absolute;
+  right: 10px;
+  width: 200px;
+}
+
+ion-slides .imgHome2 {
+  background: url('src/assets/caliscout_page3.png');
+  background-size: cover;
+  background-position: -161px -8px;
+  height: 100%;
+  position: relative;
+  flex: 1;
+  text-align: center;
+  width: 100%;
+}
+
+ion-slides .textHome2 {
+  bottom: 25%;
+  color: #fff;
+  font-size: 13px;
+  left: 50%;
+  margin-left: -100px;
+  position: absolute;
+  width: 200px;
+}
+
+ion-slides .imgHome3 {
+  background: url('src/assets/caliscout_page4.png');
+  background-size: cover;
+  background-position: -161px -8px;
+  height: 100%;
+  position: relative;
+  flex: 1;
+  text-align: center;
+  width: 100%;
+}
+
+ion-slides .textHome3 {
+  bottom: 20%;
+  color: #fff;
+  position: absolute;
+  right: 10px;
+  width: 200px;
+}
+
+ion-slides .textHome3 p {
+  font-size: 12px;
+  padding: 0 50px;
+}
+
+ion-slides .imgHome4 {
+  background: url('src/assets/caliscout_page5.png');
+  background-size: cover;
+  background-position: -11px 0;
+  height: 100%;
+  position: relative;
+  flex: 1;
+  text-align: center;
+  width: 100%;
+}
+
+ion-slides .imgHome4 .imgLogox {
+  width: 30%;
+  margin: 30% 0 10%;
+}
+
+ion-slides .textHome4 {
+  color: #fff;
+  font-size: 13px;
+  text-align: center;
+  padding: 0 10%;
+}
+
+ion-slides .imgMaps {
+  margin: 10% 0;
+  width: 30%;
+}

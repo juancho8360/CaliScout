@@ -1,0 +1,7 @@
+{
+  "name": "CaliScout",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

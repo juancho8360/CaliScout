@@ -1,0 +1,200 @@
+{
+    "iconografia" :[
+      {
+        "name":"Tertulia",
+        "longLat": ["-76.538547","3.450433"],
+        "Área": "3704462.889",
+        "elemento": "comuna_3"
+      },
+      {
+        "name":"Jorge Isaacs",
+        "longLat": ["-76.517751","3.456368"],
+        "Área": "3704462.889",
+        "elemento": "comuna_3"
+      },
+      {
+        "name":"teatro La Concha",
+        "longLat": ["-76.537896","3.445755"],
+        "Área": "3704462.889",
+        "elemento": "comuna_3"
+      },
+      {
+        "name":"Teatro La Mascara",
+        "longLat": ["-76.5384717","3.4462702"],
+        "Área": "3704462.889",
+        "elemento": "comuna_3"
+      },
+      {
+        "name":"Teatro Los Cristales",
+        "longLat": ["76.54652","3.444673"],
+        "Área": "3704462.889",
+        "elemento": "comuna_3"
+      },
+      {
+        "name":"Teatro Salamandra del Barco Ebrio",
+        "longLat": ["76.545893","3.4324218"],
+        "Área": "3704462.889",
+        "elemento": "comuna_3"
+      },
+      {
+        "name":"Casa de los Títeres",
+        "longLat": ["-76.537192","3.447172"],
+        "Área": "3704462.889",
+        "elemento": "comuna_3"
+      },
+      {
+        "name":"Teatro del Presagio",
+        "longLat": ["-76.536755","3.457279"],
+        "Área": "3704462.889",
+        "elemento": "comuna_3"
+      },
+      {
+        "name":"Orquideorama Enrique Perez Arbelaez",
+        "longLat": ["-76.511184","3.479459"],
+        "tipo": "botanica",
+        "elemento": "icon_botanica"
+      },
+      {
+        "name":"Jardin Botanico de Cali",
+        "longLat": ["-76.568322","3.448609"],
+        "tipo": "botanica",
+        "elemento": "icon_botanica"
+      },
+      {
+        "name":"El Herbario de Univalle",
+        "longLat": ["-76.534428","3.377704"],
+        "tipo": "botanica",
+        "elemento": "icon_botanica"
+      },
+      {
+        "name":"Tortelli",
+        "longLat": ["-76.542526","3.450023"],
+        "tipo": "restaurante",
+        "elemento": "icon_restaurante"
+      },
+      {
+        "name":"Platillos Voladores",
+        "longLat": ["-76.515806","3.486531"],
+        "tipo": "restaurante",
+        "elemento": "icon_restaurante"
+      },
+      {
+        "name":"Pulcinella",
+        "longLat": ["-76.542634","3.449482"],
+        "tipo": "restaurante",
+        "elemento": "icon_restaurante"
+      },
+      {
+        "name":"El Teatro Magico Del Sabor",
+        "longLat": ["-76.537856","3.44599"],
+        "tipo": "restaurante",
+        "elemento": "icon_restaurante"
+      },
+      {
+        "name":"El Pargo Rojo",
+        "longLat": ["-76.539907","3.446846"],
+        "tipo": "restaurante",
+        "elemento": "icon_restaurante"
+      },
+      {
+        "name":"La Guacharaca Café",
+        "longLat": ["-76.535488","3.449001"],
+        "tipo": "restaurante",
+        "elemento": "icon_restaurante"
+      },
+      {
+        "name":"Restaurante Los Turcos",
+        "longLat": ["-76.515382","3.48065"],
+        "tipo": "restaurante",
+        "elemento": "icon_restaurante"
+      },
+      {
+        "name":"Gastroteca",
+        "longLat": ["-76.545651","3.451893"],
+        "tipo": "restaurante",
+        "elemento": "icon_restaurante"
+      },
+
+      {
+        "name":"Club Campestre",
+        "longLat": ["-76.542354","3.369152"],
+        "tipo": "clubsocial",
+        "elemento": "icon_socialclub"
+      },
+      {
+        "name":"Club Recreacional Y Social Los Amigos ",
+        "longLat": ["-76.501048","3.451822"],
+        "tipo": "clubsocial",
+        "elemento": "icon_socialclub"
+      },
+      {
+        "name":"Club De Leones De Cali San Fernando ",
+        "longLat": ["-76.542785","3.435896"],
+        "tipo": "clubsocial",
+        "elemento": "icon_socialclub"
+      },
+      {
+        "name":"Club Colombia",
+        "longLat": ["-76.530244","3.458091"],
+        "tipo": "clubsocial",
+        "elemento": "icon_socialclub"
+      },
+      {
+        "name":"Club EMCALI",
+        "longLat": ["-76.563936","3.449511"],
+        "tipo": "clubsocial",
+        "elemento": "icon_socialclub"
+      },
+      {
+        "name":"Deportivo Cali",
+        "longLat": ["-76.525414","3.471781"],
+        "tipo": "clubsocial",
+        "elemento": "icon_socialclub"
+      },
+      {
+        "name":"Unidad recreativa los cristales",
+        "longLat": ["-76.547691","3.444578"],
+        "tipo": "clubsocial",
+        "elemento": "icon_socialclub"
+      },
+
+      {
+        "name":"Tecnoparque Sena ",
+        "longLat": ["-76.532243","3.451451"],
+        "tipo": "cyberstuff",
+        "elemento": "icon_cyberstuff"
+      },
+      {
+        "name":"Institución Universitaria Antonio José Camacho",
+        "longLat": ["-76.527417","3.470426"],
+        "tipo": "cyberstuff",
+        "elemento": "icon_cyberstuff"
+      },
+
+      {
+        "name":"Parque Santa Rosa",
+        "longLat": ["-76.531962","3.447436"],
+        "tipo": "discos",
+        "elemento": "vinyl_icon"
+      },
+      {
+        "name":"Libreria Atenas",
+        "longLat": ["-76.533792","3.448625"],
+        "tipo": "discos",
+        "elemento": "vinyl_icon"
+      },
+      {
+        "name":"Internet Camilo",
+        "longLat": ["-76.539643","3.446855"],
+        "tipo": "discos",
+        "elemento": "vinyl_icon"
+      },
+      {
+        "name":"vynil sessions",
+        "longLat": ["-76.525852","3.456046"],
+        "tipo": "discos",
+        "elemento": "vinyl_icon"
+      }
+    ]
+  }
+  
