@@ -194,6 +194,222 @@
         "longLat": ["-76.525852","3.456046"],
         "tipo": "discos",
         "srcImg": "vinyl_icon"
+      },
+      {
+        "name":"Espacio T",
+        "longLat": ["-76.537359","3.449576"],
+        "Área": "3704462.889",
+        "srcImg": "../../../assets/icon/theater.png"
+      },
+      {
+        "name":"The Mask Theater",
+        "longLat": ["-76.538624","3.44629"],
+        "Área": "3704462.889",
+        "srcImg": "../../../assets/icon/theater.png"
+      },
+      {
+        "name":"Fundacion scenic Cali Theatre",
+        "longLat": ["-76.537144","3.44571"],
+        "Área": "3704462.889",
+        "srcImg": "../../../assets/icon/theater.png"
+      },
+      {
+        "name":"Teatro La Concha",
+        "longLat": ["-76.537807","3.445722"],
+        "Área": "3704462.889",
+        "srcImg": "../../../assets/icon/theater.png"
+      },
+      {
+        "name":"Casa de los Títeres",
+        "longLat": ["-76.537128","3.447152"],
+        "Área": "3704462.889",
+        "srcImg": "../../../assets/icon/theater.png"
+      },
+      {
+        "name":"Teatro Experimental de Cali Enrique Buenaventura",
+        "longLat": ["-76.534996","3.447626"],
+        "Área": "3704462.889",
+        "srcImg": "../../../assets/icon/theater.png"
+      },
+      {
+        "name":"Jorge Isaacs Theather",
+        "longLat": ["-76.53222","3.45317"],
+        "Área": "3704462.889",
+        "srcImg": "../../../assets/icon/theater.png"
+      },
+      {
+        "name":"Teatro del Presagio",
+        "longLat": ["-76.53674","3.457308"],
+        "Área": "3704462.889",
+        "srcImg": "../../../assets/icon/theater.png"
+      },
+      {
+        "name":"Teatro Calima",
+        "longLat": ["-76.533825","3.456019"],
+        "tipo": "botanica",
+        "srcImg": "../../../assets/icon/theater.png"
+      },
+      {
+        "name":"Caelum Hostal",
+        "longLat": ["-76.536238","3.454918"],
+        "Área": "3704462.889",
+        "srcImg": "icon_touristicspots"
+      },
+      {
+        "name":"Movich Casa del Alferez",
+        "longLat": ["-76.537147","3.45579"],
+        "Área": "3704462.889",
+        "srcImg": "icon_touristicspots"
+      },
+      {
+        "name":"Hotel Stein Colonial",
+        "longLat": ["-76.539616","3.452419"],
+        "Área": "3704462.889",
+        "srcImg": "icon_touristicspots"
+      },
+      {
+        "name":"Havana Hostel & Dance School",
+        "longLat": ["-76.540987","3.437198"],
+        "Área": "3704462.889",
+        "srcImg": "icon_touristicspots"
+      },
+      {
+        "name":"Apaché B&B",
+        "longLat": ["-76.539709","3.443378"],
+        "Área": "3704462.889",
+        "srcImg": "icon_touristicspots"
+      },
+      {
+        "name":"Magic Garden House",
+        "longLat": ["-76.541713","3.446649"],
+        "Área": "3704462.889",
+        "srcImg": "icon_touristicspots"
+      },
+      {
+        "name":"Hostel Ruta Sur",
+        "longLat": ["-76.539539","3.44687"],
+        "Área": "3704462.889",
+        "srcImg": "icon_touristicspots"
+      },
+      {
+        "name":"Mango Tree Hostel",
+        "longLat": ["-76.536419","3.449292"],
+        "Área": "3704462.889",
+        "srcImg": "icon_touristicspots"
+      },
+      {
+        "name":"Kingbird Hostel",
+        "longLat": ["-76.538097","3.446999"],
+        "tipo": "botanica",
+        "srcImg": "icon_botanica"
+      },
+      {
+        "name":"MalaMaña Salsa Bar",
+        "longLat": ["-76.53403","3.451475"],
+        "Área": "3704462.889",
+        "srcImg": "icon_touristicspots"
+      },
+      {
+        "name":"La Pérgola Clandestina",
+        "longLat": ["-76.532057","3.4505119"],
+        "Área": "3704462.889",
+        "srcImg": "icon_touristicspots"
+      },
+      {
+        "name":"Espacio 10-60",
+        "longLat": ["-76.536525","3.444222"],
+        "Área": "3704462.889",
+        "srcImg": "icon_touristicspots"
+      },
+      {
+        "name":"Donde Fabio Salsa Bar",
+        "longLat": ["-76.526079","3.456148"],
+        "Área": "3704462.889",
+        "srcImg": "icon_touristicspots"
+      },
+      {
+        "name":"Punto Baré",
+        "longLat": ["-76.536524","3.444321"],
+        "Área": "3704462.889",
+        "srcImg": "icon_touristicspots"
+      },
+      {
+        "name":"Salsa Classes Cali",
+        "longLat": ["-76.540451","3.446579"],
+        "Área": "3704462.889",
+        "srcImg": "icon_touristicspots"
+      },
+      {
+        "name":"El Guayabo",
+        "longLat": ["-76.534065","3.463081"],
+        "Área": "3704462.889",
+        "srcImg": "icon_touristicspots"
+      },
+      {
+        "name":"La Caldera del Diablo",
+        "longLat": ["-76.536581","3.443471"],
+        "Área": "3704462.889",
+        "srcImg": "icon_touristicspots"
+      },
+      {
+        "name":"Zaperoco Salsa Bar,",
+        "longLat": ["-76.531476","3.458906"],
+        "tipo": "botanica",
+        "srcImg": "icon_botanica"
+      },
+      {
+        "name":"Café Mulato",
+        "longLat": ["-76.542817","3.45043"],
+        "Área": "3704462.889",
+        "srcImg": "icon_touristicspots"
+      },
+      {
+        "name":"El Patio del Museo",
+        "longLat": ["-76.545223","3.450414"],
+        "Área": "3704462.889",
+        "srcImg": "icon_touristicspots"
+      },
+      {
+        "name":"Padma House",
+        "longLat": ["-76.540485","3.44742"],
+        "Área": "3704462.889",
+        "srcImg": "icon_touristicspots"
+      },
+      {
+        "name":"Morus Express",
+        "longLat": ["-76.539935"," 3.446796"],
+        "Área": "3704462.889",
+        "srcImg": "icon_touristicspots"
+      },
+      {
+        "name":"Pao Bakery Café",
+        "longLat": ["-76.539961","3.447695"],
+        "Área": "3704462.889",
+        "srcImg": "icon_touristicspots"
+      },
+      {
+        "name":"Café Boulevard",
+        "longLat": ["-76.534976","3.452553"],
+        "Área": "3704462.889",
+        "srcImg": "icon_touristicspots"
+      },
+      {
+        "name":"Helena Panini & Caffé",
+        "longLat": [" -76.537264"," 3.451741"],
+        "Área": "3704462.889",
+        "srcImg": "icon_touristicspots"
+      },
+      {
+        "name":"Bakarha",
+        "longLat": ["-76.546656","3.453191"],
+        "Área": "3704462.889",
+        "srcImg": "icon_touristicspots"
+      },
+      {
+        "name":"La Grafiteria",
+        "longLat": ["-76.537262"," 3.449968"],
+        "tipo": "botanica",
+        "srcImg": "icon_botanica"
       }
     ]
   }
